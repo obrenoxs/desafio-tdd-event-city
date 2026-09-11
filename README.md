@@ -61,7 +61,7 @@ mvn test
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/obrenoxs/bds02.git
+git clone https://github.com/obrenoxs/desafio-tdd-event-city
 cd bds02
 mvn spring-boot:run
 ```
